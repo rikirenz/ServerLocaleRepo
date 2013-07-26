@@ -1,0 +1,13 @@
+CAMERA
+3
+lista01
+lista02+lista03
+lista04
+SENATO
+2
+lista02
+lista03
+REFERENDUM
+2
+Quesito1 "perchè lele non ha la tavoletta del cesso?"
+Quesito2 "viva la figa?"

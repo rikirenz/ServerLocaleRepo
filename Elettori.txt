@@ -1,0 +1,16 @@
+15
+3521 Alan Turing 1 2 1960
+3522 John vonNeumann 20 0 1987
+3523 Tim Berners-Lee 13 7 1992
+3524 Linus Torvalds 7 8 1965
+3525 James Gosling 10 3 1980
+3526 Dennis Ritchie 24 1 1989
+3527 Larry Page 16 10 1960
+3528 Sergey Brin 15 11 1963
+3529 Steve Jobs 31 8 1991
+3530 Leonard Kleinrock 29 5 1992
+3531 George Boole 11 6 1975
+3532 Edsger Dijkstra 14 2 1972
+3533 Richard Stallman 30 4 1969
+3534 nnn NNN 15 6 1993
+3535	ooo OOO 29 9 1985
