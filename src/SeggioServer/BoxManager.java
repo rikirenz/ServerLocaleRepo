@@ -1,6 +1,7 @@
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
+ * CIAO LELE HO AGGIUNTO UNA ROBA
  */
 package SeggioServer;
 
